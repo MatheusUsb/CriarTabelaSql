@@ -9,3 +9,8 @@ CREATE TABLE nome_da_tabela (
 );
 
 #Para inserir dados podemos fazer assim:
+
+INSERT INTO nome_da_tabela (coluna1, coluna2, coluna3)
+VALUES ('valor1', 'valor2', 'valor3'),
+       ('valor4', 'valor5', 'valor6'),
+       ('valor7', 'valor8', 'valor9');
