@@ -7,3 +7,5 @@ CREATE TABLE nome_da_tabela (
     coluna3 tipo_de_dado3
     -- Adicione quantas colunas e tipos de dados forem necessários
 );
+
+#Para inserir dados podemos fazer assim:
